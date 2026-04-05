@@ -8,7 +8,7 @@ use Filament\Forms\Components\Toggle;
 use Filament\Schemas\Schema;
 use Illuminate\Support\Str;
 
-class CategoryForm
+class CategoryForm // category feature
 {
     public static function configure(Schema $schema): Schema
     {
