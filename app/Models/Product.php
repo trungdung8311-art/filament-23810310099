@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Product extends Model
+class Product extends Model // custom field discount
 {
     protected $table = '23810310099_products';
 
