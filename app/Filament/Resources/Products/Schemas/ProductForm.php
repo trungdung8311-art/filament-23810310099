@@ -10,7 +10,7 @@ use Filament\Forms\Components\FileUpload;
 use Filament\Forms\Components\RichEditor;
 use Illuminate\Support\Str;
 
-class ProductForm
+class ProductForm // product feature
 {
     public static function configure(Schema $schema): Schema
     {
